@@ -28,7 +28,7 @@ function SpeechToText() {
           Start Listening
         </button>
         <button className="btn" onClick={() => SpeechRecognition.stopListening()}>
-          stop Listening
+          Stop Listening
         </button>
         <button className="btn" onClick={resetTranscript}>Clear text</button>
         <button className="btn" onClick={setCopied}>{isCopied ? "Copied! 👍" : "Copy?"}</button>
