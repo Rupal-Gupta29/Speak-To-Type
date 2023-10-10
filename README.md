@@ -1,3 +1,19 @@
+# SpeakToType
+
+Introducing SpeakToType, the speech-to-text converter designed to enhance your productivity and communication. With SpeakToType, you can effortlessly transform spoken words into written text using speech-recognition technology given by the react-speech-recognition package. Whether you're a student, professional, or someone who values accessibility, our app simplifies tasks like note-taking, composing messages, and writing documents. Plus, with the added convenience of the react-use-clipboard package, you can copy the transcribed text with ease, allowing you to seamlessly paste it into other applications or documents. 
+
+## Features
+
+- Enhanced Productivity: The app allows users to quickly convert spoken words into text, making tasks like note-taking, composing messages, or writing documents much faster and more convenient.
+- Accessibility: It provides an accessible solution for individuals with disabilities or those who have difficulty typing, enabling them to communicate effectively by speaking.
+- Accuracy: Advanced speech recognition technology ensures accurate transcriptions, reducing the need for manual editing or corrections.
+- Text Copying: The app allows users to easily copy the transcribed text, making it convenient for them to paste it into other applications or documents. This feature simplifies the process of sharing or using the converted text in various contexts, such as emails, notes, or social media posts, further enhancing the app's versatility and usefulness.
+
+## App Interface
+
+![Screenshot 2023-10-10 170356](https://github.com/Rupal-Gupta29/Speak-To-Type/assets/70842313/f005879b-6f1c-46ee-9746-1c8e2d0aab1b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
