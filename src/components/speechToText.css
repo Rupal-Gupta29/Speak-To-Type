@@ -1,0 +1,55 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.textContainer {
+  height: 300px;
+  width: 80%;
+  background-color: rgba(255, 241, 241, 0.789);
+  border-radius: 10px;
+  margin: auto;
+  overflow: auto;
+  padding: 20px;
+}
+
+.btnContainer {
+  margin-top: 20px;
+}
+
+.btn {
+  margin: 5px 10px;
+  padding: 10px 20px;
+  font-weight: bolder;
+  border-radius: 5px;
+  border: none;
+  background-color: white;
+}
+
+.btn:hover {
+  scale: 1.1;
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .btnContainer {
+    padding-top: 20px;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+}
