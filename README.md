@@ -11,8 +11,7 @@ Introducing SpeakToType, the speech-to-text converter designed to enhance your p
 
 ## App Interface
 
-![Screenshot 2023-10-10 170356](https://github.com/Rupal-Gupta29/Speak-To-Type/assets/70842313/f005879b-6f1c-46ee-9746-1c8e2d0aab1b)
-
+![Screenshot 2023-10-12 172323](https://github.com/Rupal-Gupta29/Speak-To-Type/assets/70842313/e4da9488-2004-4df3-97ca-2212c69616d5)
 
 # Getting Started with Create React App
 
